@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mclaren Ultimate Vision Gran Turismo
+* source:	https://sketchfab.com/3d-models/mclaren-ultimate-vision-gran-turismo-23a31de334b745b6b76999ea21a6195a
+* author:	kevin (ケビン) (https://sketchfab.com/sohyalebret)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mclaren Ultimate Vision Gran Turismo" (https://sketchfab.com/3d-models/mclaren-ultimate-vision-gran-turismo-23a31de334b745b6b76999ea21a6195a) by kevin (ケビン) (https://sketchfab.com/sohyalebret) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
